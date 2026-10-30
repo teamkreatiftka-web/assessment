@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tumbuh Kembang Anak - Screening \u0026 Rekam Medis Makan",
+  "description": "Platform screening masalah makan anak usia 0-5 tahun (Screening Cepat \u0026 Asesmen Lengkap) terintegrasi dengan Dashboard Rekam Medis Pasien untuk Klinik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
